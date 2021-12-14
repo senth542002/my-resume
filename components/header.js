@@ -10,9 +10,9 @@ function Header() {
                 <div className="flex justify-between lg:mb-2 md:mb-0 sm:mb-0">
                     <div className="lg:text-3xl sm:text-xl md:text-2xl text-2xl ">Senthil Kumar Vedachalam</div>
                 </div>
-                <div className="text-sm lg:grid sm:grid md:grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 gap-20">
+                <div className="text-sm lg:grid sm:grid md:grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 gap-20">
                     <a className="flex col-span-1" id="name" href="https://www.linkedin.com/in/senthil-kumar-55693215/"><div className=""><FontAwesomeIcon icon={faLinkedin}/></div>&nbsp;@senthil-kumar-55693215</a> 
-                    <a className="flex col-span-1" id="name" href="https://github.com/senth542002"><div className=""><FontAwesomeIcon icon={faGithub} /></div>&nbsp;@senth542002</a> 
+                    <a className="flex col-span-1" id="github" href="https://github.com/senth542002"><div className=""><FontAwesomeIcon icon={faGithub} /></div>&nbsp;@senth542002</a> 
                     <a className="flex col-span-1" id="email" href="mailto:senth542002@gmail.com"><div className=""><FontAwesomeIcon icon={faEnvelopeOpen} /></div>&nbsp;@senth542002@gmail.com</a> 
                 </div>
             </div>

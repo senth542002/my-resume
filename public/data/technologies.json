@@ -1,0 +1,40 @@
+{
+    "data":[
+        {
+            "key": "Framework & Languages",
+            "value": "Java-JEE, Spring Boot, JPA, NodeJS, Apache Struts"
+        },
+        {
+            "key": "Cloud & Infra",
+            "value": "Microsoft Azure, GCP, PCF, Apache Kafka,"
+        },
+        {
+            "key": "Data Stores",
+            "value": "Document DB, Oracle DB, SQLServer, Redis, Postgres DB, MSQL"
+        },
+        {
+            "key": "Build & CI/CD",
+            "value": "Jenkins, Concourse, Tekton, IBM UBuild, Docker"
+        },
+        {
+            "key": "Front End",
+            "value": "JSP, HTML, ReactJS, Next JS"
+        },
+        {
+            "key": "Monitoring Tools",
+            "value": "Splunk, Dynatrace, Grafana, PCF metrics"
+        },
+        {
+            "key": "Security Validation Tools",
+            "value": "Fossa, 42 Crunch, Checkmarx, SonarQube"
+        },
+        {
+            "key": "Testing Tools",
+            "value": "Junit 4, Spring Boot Test, Mockito, Wiremock, Cucumber, Selenium"
+        },
+        {
+            "key": "Other Tools & Processes",
+            "value": "Rally, Jira, Github, Accurev, Agile, Kanban, TDD, Pair Programming, JMeter, Bombadier"
+        }
+    ]
+}
