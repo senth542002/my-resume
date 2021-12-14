@@ -1,0 +1,36 @@
+{
+    "data":[
+        {
+            "project": "Ford Consumer Platform",
+            "company": "Ford Motor Company(Ford Smart Mobility)",
+            "role": "Anchor",
+            "duration": "July 2018 - Till Date",
+            "summary": "FCP provides all the basic services needed for the Ford Pass mobile application. The basic services include Vehicle details, Vin Lookup, Service History, Warranty Coverage, Vehicle Ownership Transfer, Owners Manual, Weather etc. All these services are independent platform services which can cater the service to Ford Pass and other clients.",
+            "technologies":"Java 11, Spring Boot 5, Redis, GitHub, Gradle, Jenkins, Concourse, Grafana, Dynatrace, Splunk, Microsoft Azure, PCF, Rally, Jira, Kubernetes, Docker, Tekton"
+        },
+        {
+            "project": "Web Quote",
+            "company": "Ford Motor Company",
+            "role": "Application Architect",
+            "duration": "Oct 2015 - July 2018",
+            "summary": "Webquote application is an application which helps the Ford suppliers to create, update and delete Purchase Order, Tool Order and track the diffferent states of the order.",
+            "technologies":"Java 1.6, Oracle 11g, Struts 1.2, JSP, IBM UBuild, Cucumber, Angular 1.x, JAX-RS, AccuRev, Rally"
+        },
+        {
+            "project": "Boeing - Integrated Supplier Information System",
+            "company": "Infosys",
+            "role": "Technology Lead",
+            "duration": "Nov 2012 - Oct 2015",
+            "summary": "Integrated Supplier Information System is an application which helps the Boeing company to onboard, periodic renewal of different suppliers, their access levels",
+            "technologies":"Java 1.6, Oracle 11g, Spring, JPA, TestNg"
+        },
+        {
+            "project": "Nissan North America - Order Management System",
+            "company": "Mahindra Satyam",
+            "role": "Team Lead",
+            "duration": "Dec 2006 - Nov 2012",
+            "summary": "Order Maagement System is an application that help Nissan dealers to preorder different vehicles with various specifications and also helps dealers to find a matching vehicle with other dealers",
+            "technologies":"Java 1.4, Oracle PL-SQL, Struts 1.1, JSP, Host Bridge, Unix Scripting"
+        }
+    ]
+}
